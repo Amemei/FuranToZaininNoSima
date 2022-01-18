@@ -1,0 +1,16 @@
+[
+null,
+{"battlerName":"","characterIndex":0,"characterName":"main1","classId":1,"equips":[1,0,1,0],"faceIndex":0,"faceName":"main01","id":1,"initialLevel":1,"maxLevel":99,"name":"芙兰","nickname":"","note":"<stand_picture:001>","profile":"","traits":[{"code":11,"dataId":1,"value":1}]},
+{"battlerName":"","characterIndex":2,"characterName":"main1","classId":3,"equips":[0,0,0,0],"faceIndex":4,"faceName":"main07b1","id":2,"initialLevel":1,"maxLevel":99,"name":"芙兰","nickname":"","note":"<stand_picture:001>","profile":"","traits":[{"code":11,"dataId":1,"value":1}]},
+{"battlerName":"","characterIndex":4,"characterName":"sab1","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"sab23","id":3,"initialLevel":1,"maxLevel":99,"name":"奈尔","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":4,"characterName":"sab2","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"sab11","id":4,"initialLevel":1,"maxLevel":99,"name":"里加鲁特","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":2,"characterName":"main1","classId":4,"equips":[0,0,0,0],"faceIndex":0,"faceName":"main07b2","id":5,"initialLevel":1,"maxLevel":99,"name":"芙兰","nickname":"","note":"<stand_picture:001>","profile":"","traits":[{"code":11,"dataId":1,"value":1}]},
+{"battlerName":"","characterIndex":1,"characterName":"","classId":1,"equips":[3,0,2,3],"faceIndex":4,"faceName":"test","id":6,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":2,"characterName":"test","classId":1,"equips":[0,0,0,0],"faceIndex":1,"faceName":"main21a1","id":7,"initialLevel":1,"maxLevel":99,"name":"莉莉","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":4,"characterName":"mob2","classId":1,"equips":[0,0,0,0],"faceIndex":4,"faceName":"test","id":8,"initialLevel":1,"maxLevel":99,"name":"保镖","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"mob6","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","id":9,"initialLevel":1,"maxLevel":99,"name":"大叔","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":4,"characterName":"mob4","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","id":10,"initialLevel":1,"maxLevel":99,"name":"诺艾儿的弟弟","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":5,"characterName":"2B-mob7","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","id":11,"initialLevel":1,"maxLevel":99,"name":"变装迪妮","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":12,"initialLevel":1,"maxLevel":99,"name":"里昂","nickname":"","note":"","profile":"","traits":[]},
+{"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","id":13,"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","traits":[]}
+]
